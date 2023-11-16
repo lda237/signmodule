@@ -1,0 +1,6 @@
+setup.py
+signmodule.egg-info/PKG-INFO
+signmodule.egg-info/SOURCES.txt
+signmodule.egg-info/dependency_links.txt
+signmodule.egg-info/requires.txt
+signmodule.egg-info/top_level.txt
